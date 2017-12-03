@@ -1,0 +1,41 @@
+Errors encountered when processing "worst-header.csv":
+
+Column "sample_id" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Column "sample_holderno" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Column "spectrometer_name" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Column "group_name" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Column "solvent_name" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Column "exp_name" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+The "duration" column was not found.
+No durations will be tracked.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+No columns have been found. No output file will be generated.
+Please, make sure that the input file is correctly formatted.
+
+(Single empty fields were not recorded.)

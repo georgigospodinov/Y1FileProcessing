@@ -1,0 +1,112 @@
+[Sample 4684]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4685]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4686]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4687]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4688]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4689]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4709]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4710]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4711]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4712]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4784]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4835]
+Holder number: 20
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4836]
+Holder number: 20
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+[Sample 4837]
+Holder number: 20
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <not defined>
+
+No durations were found.
+Number of samples ran on spectrometer "Alec": 14 [100.0%]
+Percentage of samples, using experiment "proton.a.and": 0.0% [total: 0]
+
+More Statistics:
+Number of samples per research group:
+admin - 14
+
+Number of samples per spectrometer:
+Alec - 14
+
+Number of samples per solvent:
+Chloroform-d - 14
+

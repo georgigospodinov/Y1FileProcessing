@@ -1,0 +1,9 @@
+Errors encountered when processing "bad-record.csv":
+
+Line: 3, field: sample_duration
+Field lacks data.
+
+Bad record data at line 6.
+Record is ignored.
+
+(Single empty fields were not recorded.)

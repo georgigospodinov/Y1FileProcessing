@@ -1,0 +1,13 @@
+Errors encountered when processing "bad-header.csv":
+
+Column "exp_name" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+The "duration" column was not found.
+No durations will be tracked.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+(Single empty fields were not recorded.)

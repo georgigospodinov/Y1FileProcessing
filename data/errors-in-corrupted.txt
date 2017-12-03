@@ -1,0 +1,38 @@
+Errors encountered when processing "corrupted.csv":
+
+Line: 2, field: sample_id
+Field lacks data.
+
+Line: 3, field: sample_id
+Expected a number but found: "6sdg532_1"
+
+Line: 4, field: sample_holderno
+Field lacks data.
+
+Line: 5, field: sample_holderno
+Expected a number but found: "df5s3f54"
+
+Line: 6, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "3fs"
+
+Line: 7, field: sample_duration
+Field lacks data.
+
+Line: 8, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "sd:gh:4r"
+
+Line: 9, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "as:02:35"
+
+Line: 10, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "00:hn:40"
+
+Line: 11, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "00:06:f3"
+
+(Single empty fields were not recorded.)

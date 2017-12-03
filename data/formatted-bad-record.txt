@@ -1,0 +1,72 @@
+[Sample 4684]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 4685]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: <empty field>
+
+[Sample 4686]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-fast.a.and
+
+[Sample 4687]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-fast.a.and
+
+[Sample 4689]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-fast.a.and
+
+[Sample 4709]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-fast.a.and
+
+[Sample 4710]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-fast.a.and
+
+[Sample 4711]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-fast.a.and
+
+Shortest recorded duration is: 00:00:34 [Sample 4686]
+Longest recorded duration is: 00:06:28 [Sample 4689]
+Total duration for all samples is: 00:15:36
+Number of samples ran on spectrometer "Alec": 8 [88.89%]
+Percentage of samples, using experiment "proton.a.and": 11.11% [total: 1]
+
+More Statistics:
+Number of samples per research group:
+admin - 8
+
+Number of samples per spectrometer:
+Alec - 8
+
+Number of samples per solvent:
+Chloroform-d - 8
+

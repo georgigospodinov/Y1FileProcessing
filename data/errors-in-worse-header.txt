@@ -1,0 +1,111 @@
+Errors encountered when processing "worse-header.csv":
+
+Column "sample_id" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Column "group_name" was not found in input file.
+Output file will have "<not defined>" values.
+MAY LEAD TO UNINFORMATIVE "formatted" file!!!
+MAY CAUSE FURTHER ERRORS TO BE LOGGED IN THIS FILE!(due to column mismatches)
+
+Line: 2, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 2, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "10"
+
+Line: 3, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 3, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "10"
+
+Line: 4, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 4, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "10"
+
+Line: 5, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 5, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "11"
+
+Line: 6, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 6, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "12"
+
+Line: 7, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 7, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "13"
+
+Line: 8, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 8, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "10"
+
+Line: 9, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 9, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "11"
+
+Line: 10, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 10, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "12"
+
+Line: 11, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 11, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "13"
+
+Line: 12, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 12, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "10"
+
+Line: 13, field: sample_holderno
+Expected a number but found: "default"
+
+Line: 13, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "10"
+
+Line: 14, field: sample_holderno
+Expected a number but found: "o1p#-205"
+
+Line: 14, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "11"
+
+Line: 15, field: sample_holderno
+Expected a number but found: "o2p#-205"
+
+Line: 15, field: sample_duration
+Bad duration format.
+Expected format is hh:mm:ss. Found "12"
+
+(Single empty fields were not recorded.)

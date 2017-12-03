@@ -1,0 +1,1174 @@
+[Sample 4684]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 4685]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 4686]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-fast.a.and
+
+[Sample 4687]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-fast.a.and
+
+[Sample 4688]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-fast.a.and
+
+[Sample 4689]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-fast.a.and
+
+[Sample 4709]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-fast.a.and
+
+[Sample 4710]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-fast.a.and
+
+[Sample 4711]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-fast.a.and
+
+[Sample 4712]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-fast.a.and
+
+[Sample 4784]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 4835]
+Holder number: 20
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 4836]
+Holder number: 20
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: f19cpd_80ppm.a.and
+
+[Sample 4837]
+Holder number: 20
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-f19.a.and
+
+[Sample 4863]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: b11.a.and
+
+[Sample 4864]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: b11cpd.a.and
+
+[Sample 4998]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: no solvent
+Experiment name: 2H.a.and
+
+[Sample 4999]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: no solvent
+Experiment name: 2Hcpd-1H.a.and
+
+[Sample 5000]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: snf.and
+
+[Sample 5001]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5002]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: f19cpd_80ppm.a.and
+
+[Sample 5003]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-f19.a.and
+
+[Sample 5004]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: acetone-d6
+Experiment name: proton.a.and
+
+[Sample 5005]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: acetone-d6
+Experiment name: ghmbc-p31.a.and
+
+[Sample 5211]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5212]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton_WIDE.a.and
+
+[Sample 5213]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton_Quant.a.and
+
+[Sample 5215]
+Holder number: 3
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: pro19Fdec.a.and
+
+[Sample 5248]
+Holder number: 4
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5249]
+Holder number: 5
+Spectrometer: Felix
+Research group: admin
+Solvent: acetone-d6
+Experiment name: pro31Pdec.a.and
+
+[Sample 5250]
+Holder number: 6
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton_WIDE-2.a.and
+
+[Sample 5251]
+Holder number: 6
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 5565]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5566]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton_WIDE.a.and
+
+[Sample 5567]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton_Quant.a.and
+
+[Sample 5568]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton_WIDE-2.a.and
+
+[Sample 5569]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5570]
+Holder number: 2
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: solventsup.a.and
+
+[Sample 5571]
+Holder number: 3
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: pro19Fdec.a.and
+
+[Sample 5574]
+Holder number: 4
+Spectrometer: Felix
+Research group: admin
+Solvent: acetone-d6
+Experiment name: pro31Pdec.a.and
+
+[Sample 5577]
+Holder number: 5
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 5596]
+Holder number: 6
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5597]
+Holder number: 6
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5598]
+Holder number: 7
+Spectrometer: Felix
+Research group: admin
+Solvent: 90% H2O and 10% D2O
+Experiment name: solventsup.a.and
+
+[Sample 5612]
+Holder number: 8
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5613]
+Holder number: 9
+Spectrometer: Felix
+Research group: admin
+Solvent: 90% H2O and 10% D2O
+Experiment name: solventsup.a.and
+
+[Sample 5619]
+Holder number: 10
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5621]
+Holder number: 11
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5623]
+Holder number: 12
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5639]
+Holder number: 13
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5640]
+Holder number: 13
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5642]
+Holder number: 14
+Spectrometer: Felix
+Research group: admin
+Solvent: 90% H2O and 10% D2O
+Experiment name: solventsup.a.and
+
+[Sample 5644]
+Holder number: 15
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5645]
+Holder number: 15
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 5805]
+Holder number: 7
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghsqc-lignin.a.and
+
+[Sample 5806]
+Holder number: 7
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghsqc-lignin-fast.a.and
+
+[Sample 5835]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 5836]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghsqc-lignin.a.and
+
+[Sample 5837]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghsqc-lignin-aro.a.and
+
+[Sample 5838]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghsqc-lignin-fast.a.and
+
+[Sample 6394]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6533]
+Holder number: 7
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6738]
+Holder number: 19
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6739]
+Holder number: 19
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 6774]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6812]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selroesy1D.a.and
+
+[Sample 6813]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selroesy1D.a.and
+
+[Sample 6814]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selroesy1D.a.and
+
+[Sample 6815]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selroesy1D.a.and
+
+[Sample 6816]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: roesy2D.a.and
+
+[Sample 6824]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-N.a.and
+
+[Sample 6825]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_udeft.a.and
+
+[Sample 6826]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-DQF-N.a.and
+
+[Sample 6827]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-ed.a.and
+
+[Sample 6828]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 6829]
+Holder number: 2
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6830]
+Holder number: 2
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: f19cpd_80ppm.a.and
+
+[Sample 6831]
+Holder number: 2
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-f19.a.and
+
+[Sample 6832]
+Holder number: 3
+Spectrometer: Felix
+Research group: admin
+Solvent: acetone-d6
+Experiment name: proton.a.and
+
+[Sample 6833]
+Holder number: 3
+Spectrometer: Felix
+Research group: admin
+Solvent: acetone-d6
+Experiment name: p31cpd.a.and
+
+[Sample 6834]
+Holder number: 3
+Spectrometer: Felix
+Research group: admin
+Solvent: acetone-d6
+Experiment name: ghmbc-p31.a.and
+
+[Sample 6898]
+Holder number: 4
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6899]
+Holder number: 4
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: f19cpd_80ppm.a.and
+
+[Sample 6900]
+Holder number: 4
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc-f19.a.and
+
+[Sample 6908]
+Holder number: 5
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6909]
+Holder number: 5
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 6954]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6955]
+Holder number: 5
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6956]
+Holder number: 6
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6958]
+Holder number: 7
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6979]
+Holder number: 15
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 6980]
+Holder number: 15
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 6981]
+Holder number: 16
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-N.a.and
+
+[Sample 6982]
+Holder number: 16
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 6983]
+Holder number: 16
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-DQF-N.a.and
+
+[Sample 6984]
+Holder number: 16
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-ed.a.and
+
+[Sample 6985]
+Holder number: 16
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 6986]
+Holder number: 17
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-N.a.and
+
+[Sample 6987]
+Holder number: 17
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 6988]
+Holder number: 17
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-DQF-N.a.and
+
+[Sample 6989]
+Holder number: 17
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-ed.a.and
+
+[Sample 6990]
+Holder number: 17
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 7115]
+Holder number: 9
+Spectrometer: Alec
+Research group: admin
+Solvent: benzene-d6
+Experiment name: proton.a.and
+
+[Sample 7116]
+Holder number: 10
+Spectrometer: Alec
+Research group: admin
+Solvent: benzene-d6
+Experiment name: proton.a.and
+
+[Sample 7609]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 7610]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gtocsy.a.and
+
+[Sample 8378]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 8612]
+Holder number: 7
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 9105]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 10926]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: proton.a.and
+
+[Sample 10927]
+Holder number: 3
+Spectrometer: Alec
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghmbc-n15.a.and
+
+[Sample 11074]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: snh.and
+
+[Sample 12199]
+Holder number: 2
+Spectrometer: Alec
+Research group: admin
+Solvent: deuteriumoxide
+Experiment name: pt195.a.and
+
+[Sample 12255]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 12257]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 12313]
+Holder number: 6
+Spectrometer: Alec
+Research group: admin
+Solvent: benzene-d6
+Experiment name: p31cpd.a.and
+
+[Sample 12314]
+Holder number: 6
+Spectrometer: Alec
+Research group: admin
+Solvent: benzene-d6
+Experiment name: f19cpd_80ppm.a.and
+
+[Sample 12344]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: benzene-d6
+Experiment name: proton.a.and
+
+[Sample 12345]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: benzene-d6
+Experiment name: p31cpd.a.and
+
+[Sample 12346]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: benzene-d6
+Experiment name: f19cpd_80ppm.a.and
+
+[Sample 14011]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 14460]
+Holder number: 13
+Spectrometer: Alec
+Research group: admin
+Solvent: 90% H2O and 10% D2O
+Experiment name: solventsup.a.and
+
+[Sample 14462]
+Holder number: 14
+Spectrometer: Alec
+Research group: admin
+Solvent: 90% H2O and 10% D2O
+Experiment name: solventsup.a.and
+
+[Sample 15526]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 15527]
+Holder number: 4
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 16841]
+Holder number: 21
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 21362]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 23223]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: selnoesy1D.a.and
+
+[Sample 24391]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 24399]
+Holder number: 5
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 24400]
+Holder number: 5
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-ed.a.and
+
+[Sample 24401]
+Holder number: 5
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 24402]
+Holder number: 5
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 24523]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 24524]
+Holder number: 1
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-DQF.a.and
+
+[Sample 24695]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton-N.a.and
+
+[Sample 24696]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_udeft.a.and
+
+[Sample 24697]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-DQF-N.a.and
+
+[Sample 24698]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-ed.a.and
+
+[Sample 24699]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghmbc.a.and
+
+[Sample 24701]
+Holder number: 18
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 24702]
+Holder number: 18
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: c13_deptq.a.and
+
+[Sample 27054]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 27055]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: ghsqc-ed.a.and
+
+[Sample 27596]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: proton.a.and
+
+[Sample 27597]
+Holder number: 1
+Spectrometer: Felix
+Research group: admin
+Solvent: dimethylsulfoxide-d6
+Experiment name: ghmbc-n15.a.and
+
+[Sample 28682]
+Holder number: 1
+Spectrometer: Felix
+Research group: DP Group
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 28683]
+Holder number: 1
+Spectrometer: Felix
+Research group: DP Group
+Solvent: Chloroform-d
+Experiment name: f19cpd.a.and
+
+[Sample 29050]
+Holder number: 15
+Spectrometer: Felix
+Research group: DP Group
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 29051]
+Holder number: 15
+Spectrometer: Felix
+Research group: DP Group
+Solvent: Chloroform-d
+Experiment name: f19cpd.a.and
+
+[Sample 29292]
+Holder number: 10
+Spectrometer: Felix
+Research group: DP Group
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 30998]
+Holder number: 3
+Spectrometer: Felix
+Research group: NJW Group
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 31034]
+Holder number: 7
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 31046]
+Holder number: 12
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 31067]
+Holder number: 18
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: proton.a.and
+
+[Sample 31068]
+Holder number: 18
+Spectrometer: Alec
+Research group: admin
+Solvent: Chloroform-d
+Experiment name: gcosy-DQF.a.and
+
+[Sample 31086]
+Holder number: 24
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: proton-fast.a.and
+
+[Sample 31087]
+Holder number: 24
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: gcosy-fast.a.and
+
+[Sample 31088]
+Holder number: 24
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: ghsqc-fast.a.and
+
+[Sample 31089]
+Holder number: 24
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: ghmbc-fast.a.and
+
+[Sample 31091]
+Holder number: 25
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: proton-fast.a.and
+
+[Sample 31092]
+Holder number: 25
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: gcosy-fast.a.and
+
+[Sample 31093]
+Holder number: 25
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: ghsqc-fast.a.and
+
+[Sample 31094]
+Holder number: 25
+Spectrometer: Alec
+Research group: test account
+Solvent: Chloroform-d
+Experiment name: ghmbc-fast.a.and
+
+Shortest recorded duration is: 00:00:08 [Sample 5000]
+Longest recorded duration is: 02:01:47 [Sample 5836]
+Total duration for all samples is: 21:36:31
+Number of samples ran on spectrometer "Alec": 97 [59.15%]
+Percentage of samples, using experiment "proton.a.and": 31.71% [total: 52]
+
+More Statistics:
+Number of samples per research group:
+DP Group - 5
+NJW Group - 1
+admin - 149
+test account - 9
+
+Number of samples per spectrometer:
+Alec - 97
+Felix - 67
+
+Number of samples per solvent:
+90% H2O and 10% D2O - 5
+Chloroform-d - 133
+acetone-d6 - 7
+benzene-d6 - 7
+deuteriumoxide - 1
+dimethylsulfoxide-d6 - 9
+no solvent - 2
+

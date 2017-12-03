@@ -1,0 +1,113 @@
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 1
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 1
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 302
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 303
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 304
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 305
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 302
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 303
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 304
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 305
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 1
+
+[Sample <not defined>]
+Holder number: default
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 1
+
+[Sample <not defined>]
+Holder number: o1p#-205
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 21
+
+[Sample <not defined>]
+Holder number: o2p#-205
+Spectrometer: 3392FF
+Research group: <not defined>
+Solvent: 1
+Experiment name: 103
+
+Shortest recorded duration is:  not found.
+Longest recorded duration is:  not found.
+Total duration for all samples is: 00:00:00
+Number of samples ran on spectrometer "Alec": 0 [0.0%]
+Percentage of samples, using experiment "proton.a.and": 0.0% [total: 0]
+
+More Statistics:
+Number of samples per research group:
+
+Number of samples per spectrometer:
+3392FF - 14
+
+Number of samples per solvent:
+1 - 14
+
